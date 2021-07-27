@@ -1,7 +1,6 @@
 # message-passing-via-ports
 
 #dmos - project 4
-#Description -  build a module that does message passing via ports
 #Rachana Bhaskar - 1217402615
 #Ramya Venkateshachary - 1217107164
 
